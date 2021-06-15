@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 23db9a2fce2ff5640bf63b6d0edf200e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6906163430197253843
+    second: Jeremy Pink_walk(up)_1
+  - first:
+      213: 69472949544024
+    second: Jeremy Pink_walk(down)_2
+  - first:
+      213: -7236999163411114696
+    second: Jeremy Pink_walk(left)_3
+  - first:
+      213: 3751861254179082681
+    second: Jeremy Pink_attack(down)_1
+  - first:
+      213: 8092298976968913472
+    second: Jeremy Pink_attack(down)_2
+  - first:
+      213: -7736945183015580452
+    second: Jeremy Pink_attack(down)_3
+  - first:
+      213: -7292241983010688316
+    second: Jeremy Pink_walk(right)_2
+  - first:
+      213: -1923001826124220942
+    second: Jeremy Pink_attack(right)_1
+  - first:
+      213: 2779918595892449618
+    second: Jeremy Pink_attack(right)_2
+  - first:
+      213: 6243923514084718508
+    second: Jeremy Pink_attack(right)_3
+  - first:
+      213: 8459235254252684021
+    second: Jeremy Pink_walk(left)_2
+  - first:
+      213: -1487523451932458575
+    second: Jeremy Pink_attack(left)_1
+  - first:
+      213: 3301062802585571500
+    second: Jeremy Pink_attack(left)_2
+  - first:
+      213: 1077475751177411666
+    second: Jeremy Pink_attack(left)_3
+  - first:
+      213: 8648895678066671861
+    second: Jeremy Pink_walk(up)_2
+  - first:
+      213: 3352385589932149143
+    second: Jeremy Pink_attack(up)_1
+  - first:
+      213: 2857971927597644923
+    second: Jeremy Pink_attack(up)_2
+  - first:
+      213: -5043625383898901898
+    second: Jeremy Pink_attack(up)_3
+  - first:
+      213: -6865238364107364078
+    second: Jeremy Pink_walk(down)_1
+  - first:
+      213: -7323479581394473062
+    second: Jeremy Pink_walk(right)_1
+  - first:
+      213: 5324265335230547522
+    second: Jeremy Pink_walk(left)_1
+  - first:
+      213: -7705955442008984916
+    second: Jeremy Pink_walk(down)_3
+  - first:
+      213: -5509011280020293257
+    second: Jeremy Pink_walk(right)_3
+  - first:
+      213: -5173000112751164400
+    second: Jeremy Pink_walk(up)_3
+  - first:
+      213: 6714388653582398149
+    second: Jeremy Pink_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(down)_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854aa7e6f2f300000800000000000000
+      internalID: 69472949544024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(down)_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b155e5bee9411430800000000000000
+      internalID: 3751861254179082681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(down)_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423d727b0f9d4070800000000000000
+      internalID: 8092298976968913472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(down)_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdccfaf1959d0a490800000000000000
+      internalID: -7736945183015580452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(right)_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2357a6d80ccca90800000000000000
+      internalID: -7292241983010688316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(right)_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5307317002055e0800000000000000
+      internalID: -1923001826124220942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(right)_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2511cacfb31449620800000000000000
+      internalID: 2779918595892449618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(right)_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77ab5ba5fd6a650800000000000000
+      internalID: 6243923514084718508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(left)_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2413115ad356570800000000000000
+      internalID: 8459235254252684021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(left)_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c08c3d414b5be0800000000000000
+      internalID: -1487523451932458575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(left)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca05e51112bbfcd20800000000000000
+      internalID: 3301062802585571500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(left)_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd60bac76f3fe00800000000000000
+      internalID: 1077475751177411666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(up)_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0439e9bcc070870800000000000000
+      internalID: 8648895678066671861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(up)_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994b0eaee0168e20800000000000000
+      internalID: 3352385589932149143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(up)_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cfe72735e89a720800000000000000
+      internalID: 2857971927597644923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_attack(up)_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67210948f61710ab0800000000000000
+      internalID: -5043625383898901898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(down)_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2192ff8d416c9b0a0800000000000000
+      internalID: -6865238364107364078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(right)_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe7274f16cd5a90800000000000000
+      internalID: -7323479581394473062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(left)_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c75cfc1793e940800000000000000
+      internalID: 5324265335230547522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(down)_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f0187a52fe0590800000000000000
+      internalID: -7705955442008984916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(right)_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77935c6cd6f0c83b0800000000000000
+      internalID: -5509011280020293257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(up)_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29ac4e53f06820a0800000000000000
+      internalID: -6906163430197253843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(left)_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d419aa93019b90800000000000000
+      internalID: -7236999163411114696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jeremy Pink_walk(up)_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01449602ecfc538b0800000000000000
+      internalID: -5173000112751164400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
