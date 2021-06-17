@@ -5,6 +5,11 @@ using UnityEngine;
 public class CharacterMove : MonoBehaviour
 {
     // Start is called before the first frame update
+    public float speed;
+
+    private Vector3 vector;
+    Rigidbody2D rb;
+
     void Start()
     {
         
